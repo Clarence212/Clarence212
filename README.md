@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Clarence212
 - 👀 I’m interested in ... n
 - 🌱 I’m currently learning ...
-- 💞️ I’m Working For ... Discord Bot Developer Portal
+- 💞️
 - 📫 How to reach me ...discord: JC#1610
 
 <!---
