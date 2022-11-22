@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... n
 - 🌱 I’m currently learning ...
 - 💞️
-- 📫 How to reach me ...discord: JC#1610
+- 📫 How to reach me ...discord: JC.#0001
 
 <!---
 Clarence212/Clarence212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
