@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Clarence212
-- 👀 I’m interested in ... n
-- 🌱 I’m currently learning ...
-- 💞️
 - 📫 How to reach me ...discord: JC.#0001
 
 <!---
